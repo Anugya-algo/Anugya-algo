@@ -1,4 +1,4 @@
-<h1> <i><b>👩🏻‍💻ANUGYA SAXENA WELCOMES YOU !!</b></i></h1>
+<h1> <i><b>नमस्ते ! </b></i><b> ANUGYA SAXENA WELCOMES YOU !!</b></h1>
 ✔️Computer Science Undergrad at Delhi College of Engineering.<br>✔️Interested in Artificial intelligence, Machine Learning, Deep learning, WebD, Web3 ,UI/UX and DSA.<br>✔️Well equipped with communication skills and strategic planning.<br>✔️Insatiably curious about everything in Tech.<br>✔️Looking forward to connect with like minded peers.
 
 
